@@ -113,39 +113,6 @@ body{
     top: 16px;
 }
 
-#container-description{
-    margin: 30px auto;
-    padding: 80px;
-    background-color: grey;
-    border-radius: 30px;
-    text-align: center;
-    z-index: 0;
-}   
-
-#my-image{
-    position: relative;
-    z-index: 1;
-}
-
- #square{
-    height: 320px;
-    width: 300px;
-    border: 3px solid rgb(190, 190, 190);
-    border-radius: 45px;
-    position: absolute;
-    top: 30px;
-    left: 50px;
-    z-index: -1;
-    background-color: white;
-}
-
-
-#card-image-profile{
-    
-    border-radius: 45px;
-    z-index: 0;
-   
-}
 
 
 
